@@ -10,7 +10,7 @@ Now, in your computer workspace will appear a folder has name like this
 
 <img width="214" height="60" alt="image" src="https://github.com/user-attachments/assets/67032bee-a255-4999-9925-3694d2d220cd" />
 
-cd in it and use "grep -r "picoCTF" to filter the flag. "r" to recurse into subdirectories
+cd into it and use "grep -r "picoCTF" to filter the flag. "r" stands for recursion into subdirectories
 
 <img width="618" height="109" alt="image" src="https://github.com/user-attachments/assets/376066bb-3216-43ba-9553-535ed8e63aca" />
 
